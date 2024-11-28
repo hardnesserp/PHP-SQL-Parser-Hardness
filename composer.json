@@ -1,14 +1,14 @@
 {
-	"name" : "greenlion/php-sql-parser",
+	"name": "hardnesserp/php-sql-parser-hardness",
 	"type" : "library",
-	"description" : "A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL",
+	"description" : "PHP-SQL-Parser adaptado para utilizar no sistema Hardness.",
 	"keywords" : [
 		"sql",
 		"parser",
 		"creator",
 		"MySQL"
 	],
-	"homepage" : "https://github.com/greenlion/PHP-SQL-Parser",
+	"homepage": "https://github.com/hardnesserp/PHP-SQL-Parser-Hardness",
 	"license" : "BSD-3-Clause",
 	"authors" : [{
 			"name" : "Justin Swanhart",
@@ -22,9 +22,9 @@
 			"role" : "Committer"
 		}
 	],
-	"support" : {
-		"issues" : "https://github.com/greenlion/PHP-SQL-Parser/issues",
-		"source" : "https://github.com/greenlion/PHP-SQL-Parser"
+	"support": {
+   		 "issues": "https://github.com/hardnesserp/PHP-SQL-Parser-Hardness/issues",
+   		 "source": "https://github.com/hardnesserp/PHP-SQL-Parser-Hardness"
 	},
 	"autoload" : {
 		"psr-0" : {
